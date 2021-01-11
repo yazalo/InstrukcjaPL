@@ -1,1 +1,1 @@
-# InstrukcjaPL
+# Instrukcja Stylu
