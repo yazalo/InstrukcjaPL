@@ -2,8 +2,6 @@
 
 Instrukcja stylu polskiej wersji językowej OpenTTD powstała w celu ujednolicenia tekstu występującego w grze. Opiera się na specyfice języka polskiego oraz na [angielskiej (oryginalnej) wersji](https://wiki.openttd.org/en/Development/Manual%20of%20style) tego dokumentu. Podręcznik omawia zasady, które powinny być stosowane do pisania tekstów w grze w języku polskim. Reguły te opierają się na założeniu, że teksty w OpenTTD dzielą się na dwie kategorie: Etykiety tekstowe i Opisy
 
-## Spis treści
-
 ## Podział na etykiety i opisy
 
 Etykiety tekstowe to tekst nazywający konkretne pole lub funkcję (przyciski, ramki okien, pola tabeli itd.).
@@ -23,12 +21,12 @@ W oryginalnej wersji językowej gry spotyka się często angielskie skrótowce. 
 
 ## Etykiety tekstowe
 
-### Interpunkcja
-Etykiety tekstowe prawie nigdy nie tworzą pełnych zdań i nigdy nie powinny być kończone kropką. Należy w miarę możliwości formułować je jak najprościej, by uniknąć stosowania zbędnęj interpunkcji.
-
 ### Wielkie litery
 Etykiety tekstowe zawsze powinny rozpoczynać się wielką literą, chyba że dana etykieta jest pozycją listy punktonowej. Poza tym wielkie litery stosuje się wprowadzając skrótowce, nazwy własne czy inne elementy, które tego wymagają.
 W odróżnieniu od języka angielskiego, w polskich tytułach wielką literą pisany jest tylko pierwszy człon nazwy.
+
+### Interpunkcja
+Etykiety tekstowe prawie nigdy nie tworzą pełnych zdań i nigdy nie powinny być kończone kropką. Należy w miarę możliwości formułować je jak najprościej, by uniknąć stosowania zbędnęj interpunkcji.
 
 ## Opisy
 
@@ -47,5 +45,4 @@ W przypadku przycisków tekstowych (bez ikony), sam tekst przycisku stanowi tytu
 
 #### Opis funkcji
 
-
-#### 
+...
